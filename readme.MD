@@ -17,3 +17,6 @@
 
 ## Class - 6
 - Loop within loop
+
+## Class - 7
+- Pattern Programming
